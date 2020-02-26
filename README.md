@@ -1,3 +1,12 @@
+# Simple base model
+Achieved a F1 score of 65% using TF-IDF vectorizer. This can be improved by doing preprocessing
+
+
+
+
+
+
+
 # Urdu Senitment Corpus: A labeled dataset for Urdu sentiment analysis and sentiment classification
 
 ### About the dataset
